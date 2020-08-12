@@ -29,7 +29,7 @@ Then, fulfilling one of the main objectives, we will proceed to the replication 
 
 The development of the project is based on the creation of a system that allows collecting data from the processing plants and to control the machines that exits in each of the lines. In order to do this, one of the tools previously studied will be selected and tested in the work environment with the aim of checking its performance. Finally, conclusions will be made about the results of the project and the importance they have,to chain with the second part of the work.
 
-### Part II: Analysis and avaluation of distributed manufacturing chains performance levels.
+### [Part II: Analysis and avaluation of distributed manufacturing chains performance levels.][link_partII]
 The main subject is focused on ERPs and the exploitation of data in a company. It will explain how to treat the data since it arrives from the factory until it is finally use as the company's efficiency indicators. The main objectives that EbroFoods needed to meet is that we get used to use SAP -ERP that the company is working with- and
 some of its modules. In addition, a comparison will be made between different reporting tools and we will use one of them to make a report with real factory data.
 
@@ -44,3 +44,4 @@ done in the future.
 
 
 [link_partI]: https://github.com/ibe16/Distributed-chains-monitoring
+[link_partII]: https://github.com/antmordhar/TFG
