@@ -19,7 +19,7 @@ Industry 4.0.
 
 This project has two differents parts
 
-### Part I: Online monitoring systems of distributed manufacturing chains.
+### [Part I: Online monitoring systems of distributed manufacturing chains.][link_partI]
 The aim of this work is done from the convergence between information technologies and operational technologies. The project has some objectives that it is needed to achieve for the company with we have worked, EbroFoods. These objectives include the realization of a guide to help other engineers to introduce themselves in industrial world, the replication of the company's work environment and a comparison of the different tools that are being considered
 for use it in the company.
 
@@ -41,3 +41,6 @@ To continue the guide created in the previous project, the entire process of cre
 
 Finally, a conclusion will be made about the results of the project and the work that could be
 done in the future.
+
+
+[link_partI]: https://github.com/ibe16/Distributed-chains-monitoring
