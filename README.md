@@ -44,4 +44,4 @@ done in the future.
 
 
 [link_partI]: https://github.com/ibe16/Distributed-chains-monitoring
-[link_partII]: https://github.com/antmordhar/Analysis-and-avaluation-of-distributed-manufacturing-chains-performance-levels./settings
+[link_partII]: https://github.com/antmordhar/Distributed-Chains-Analysis
