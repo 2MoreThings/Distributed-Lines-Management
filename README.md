@@ -5,9 +5,9 @@
 ---
 
 ## Abstract
-The aim of this project is make an industrial solution for analysis and performance level evaluations of distributed manufacturing lines. 
+The aim of this project is making an industrial solution for analysis and performance level evaluations of distributed manufacturing lines.  
 
-This solutions will be used for Ebrofood in some of their fabrics that are being technologicaly updated. In order to achieve this the solutions must give priority to escalability.
+These solutions will be used for Ebrofood in some of their fabrics that are being technologically updated. In order to achieve this the solutions must give priority to scalability.
 
 Textend of the project led to has led to the need for a group effort among this company specialists
 in different subjects and the authors of this project. So in the process converge: 
